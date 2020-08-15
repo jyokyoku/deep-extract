@@ -1,0 +1,14 @@
+{
+  "name": "deep-extract",
+  "version": "0.1.0",
+  "description": "Extracts values from a deep hierarchy of objects.",
+  "main": "index.js",
+  "author": "jyokyoku <jyokyoku@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
