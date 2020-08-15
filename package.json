@@ -8,6 +8,14 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:jyokyoku/deep-extract.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jyokyoku/deep-extract/issues"
+  },
+  "homepage": "https://github.com/jyokyoku/deep-extract#readme",
   "devDependencies": {
     "jest": "^26.4.0"
   }
